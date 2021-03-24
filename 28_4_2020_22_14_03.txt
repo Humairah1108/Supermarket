@@ -1,0 +1,12 @@
+       ItemName                   ItemQty         ItemPriceVatExcl         ItemPriceVatIncl
+Twinings_Green_Tea_50G                 3               152.85                     175.78
+Youngs_Honey_Natural_125G              3                76.50                      87.97
+Eggcellent_Fresh_Eggs*15               1                40.00                      46.00
+Fairy_Liq_Machine_Cerise_3L            3               887.85                    1021.03
+Torch_Plastic_2D                       1                93.50                     107.52
+
+Total Excluding VAT : Rs 1250.70
+Total VAT           : Rs 187.61
+Total Including VAT : Rs 1438.31
+Date of Purchase    : 28/4/2020
+Time of Purchase    : 22:14:03

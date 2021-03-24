@@ -1,0 +1,21 @@
+Barcode                 ItemName               QtyInStock             ReOrderLevel              BuyingPrice             SellingPrice                %Vat
+  100             Twinings_Green_Tea_50G          500                      250                    40.25                   50.95                       15
+  101              Mocacinno_Coffee_100G          500                      250                    15.50                   25.35                       15
+  102              Mirinda_Vanilla_330ML          500                      250                    15.00                   19.00                       15
+  103              Panzani_Macaroni_500G          497                      250                    40.00                   50.95                       15
+  104           Cooking_Oil_Sunflower_1L          500                      250                    40.95                   50.00                       15
+  105           Kraft_Chedar_Cheese_250G          497                      250                    60.50                   70.95                       15
+  106                   Red_Cow_Milk_1Kg          499                      250                    70.00                   80.50                       15
+  107             5_Star_Sweet_Corn_425G          500                      250                    20.95                   42.00                       15
+  108                  Farine_De_Ble_2Kg          500                      250                    53.50                   80.00                       15
+  109                 Amande_Entier_100G          500                      250                    20.00                   30.00                       15
+  110          Youngs_Honey_Natural_125G          495                      250                    15.50                   25.50                       15
+  111       Flora_Margarine_Regular_500G          497                      250                    25.95                   30.00                       15
+  112           Eggcellent_Fresh_Eggs*15          498                      250                    35.50                   40.00                       15
+  113        Fairy_Liq_Machine_Cerise_3L          497                      250                   200.00                  295.95                       15
+  114      Doom_Insecti_Super_Green_180M          498                      250                    60.95                   69.00                       15
+  115                   Torch_Plastic_2D          498                      250                    80.00                   93.50                       15
+  116                       Banana_Chips          500                      250                     5.00                   10.00                       15
+  117                 Pepsi_Cherry_330Ml          498                      250                    19.95                   25.50                       15
+  118                  Nestum_Plain_500G          500                      250                   125.00                  134.00                       15
+  119            Crown_Refined_Salt_500G          497                      250                    12.50                   15.00                       15
